@@ -195,3 +195,7 @@ Tools: Icarus Verilog, GTKWave, VS Code, Vivado
 Stages: IF, ID, EX, WB
 
 Result: Working simulation with parallel instruction processor
+
+#OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5cd03282-52d6-4210-b7df-46961db82ccd" />
